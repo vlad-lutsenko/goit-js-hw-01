@@ -1,4 +1,5 @@
 "use strict";
+
 const order = prompt("введите страну доставки");
 
 const priceChina = 100;
